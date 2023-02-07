@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/home/osman/documents/zettels/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	//
+Fleeting Notes	index.md	/^# Fleeting Notes$/;"	c
+FootNote Referencing	230205_2020.md	/^## FootNote Referencing$/;"	s	chapter:Pandoc Citation
+Open File From Bib Input	230206_0313.md	/^# Open File From Bib Input $/;"	c
+Pandoc Citation	230205_2020.md	/^# Pandoc Citation $/;"	c
+Referencing Equations	230205_2020.md	/^## Referencing Equations$/;"	s	chapter:Pandoc Citation
+Referencing Figures	230205_2020.md	/^## Referencing Figures$/;"	s	chapter:Pandoc Citation
+Table Referencing	230205_2020.md	/^## Table Referencing$/;"	s	chapter:Pandoc Citation
+This is the main index page of my zettel notes	index.md	/^# This is the main index page of my zettel notes$/;"	c
+how to open tar.xz (binary) file	230205_0327.md	/^# how to open tar.xz (binary) file $/;"	c
+manual program installation from source code in linux	230204_1714.md	/^# manual program installation from source code in linux $/;"	c
+vifm selection keymap	230204_1625.md	/^# vifm selection keymap $/;"	c
