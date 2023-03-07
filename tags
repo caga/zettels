@@ -9,14 +9,34 @@
 !_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	//
+Adding citations without actually using them in body text	230208_1113.md	/^# Adding citations without actually using them in body text $/;"	c
+Bootable disk from iso	230209_0032.md	/^# Bootable disk from iso $/;"	c
+Citation Styles in Pandoc	230208_0148.md	/^# Citation Styles in Pandoc $/;"	c
+Configuring Attachment Assignee Program in Neomutt	230207_1123.md	/^# Configuring Attachment Assignee Program in Neomutt $/;"	c
+Default vifm leader	230208_1128.md	/^# Default vifm leader $/;"	c
 Fleeting Notes	index.md	/^# Fleeting Notes$/;"	c
 FootNote Referencing	230205_2020.md	/^## FootNote Referencing$/;"	s	chapter:Pandoc Citation
+How to Open tar.xz (binary) File	230205_0327.md	/^# How to Open tar.xz (binary) File $/;"	c
+How to color the links in document conversion with pandoc	230209_0052.md	/^# How to color the links in document conversion with pandoc $/;"	c
+How to convert a bootable usb drive to normal	230209_0035.md	/^# How to convert a bootable usb drive to normal $/;"	c
+How to determine a block device name?	230209_0046.md	/^# How to determine a block device name? $/;"	c
+How to open an url or file in vim	230207_1705.md	/^# How to open an url or file in vim $/;"	c
 Open File From Bib Input	230206_0313.md	/^# Open File From Bib Input $/;"	c
 Pandoc Citation	230205_2020.md	/^# Pandoc Citation $/;"	c
+Pyvis	zettelsref.bib	/^@article{Pyvis,$/;"	a
 Referencing Equations	230205_2020.md	/^## Referencing Equations$/;"	s	chapter:Pandoc Citation
 Referencing Figures	230205_2020.md	/^## Referencing Figures$/;"	s	chapter:Pandoc Citation
 Table Referencing	230205_2020.md	/^## Table Referencing$/;"	s	chapter:Pandoc Citation
 This is the main index page of my zettel notes	index.md	/^# This is the main index page of my zettel notes$/;"	c
-how to open tar.xz (binary) file	230205_0327.md	/^# how to open tar.xz (binary) file $/;"	c
+Vifm Tabs and Tab Movement	230208_1108.md	/^# Vifm Tabs and Tab Movement $/;"	c
+Vifm default leader	230208_1205.md	/^tags: :vifm:$/;"	c
+Vim Tab Movement	230208_1103.md	/^# Vim Tab Movement $/;"	c
+Xev	230208_0033.md	/^# Xev $/;"	c
+Xev	zettelsref.bib	/^@article{Xev,$/;"	a
+Yakimov2017Nov	zettelsref.bib	/^@article{Yakimov2017Nov,$/;"	a
+ZoterCsl	zettelsref.bib	/^@article{ZoterCsl,$/;"	a
+den	230208_1143.md	/^# den $/;"	c
+deneme	230208_1138.md	/^# deneme $/;"	c
 manual program installation from source code in linux	230204_1714.md	/^# manual program installation from source code in linux $/;"	c
+pyvis	230207_2237.md	/^# pyvis $/;"	c
 vifm selection keymap	230204_1625.md	/^# vifm selection keymap $/;"	c
