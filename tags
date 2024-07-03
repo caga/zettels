@@ -10,33 +10,125 @@
 !_TAG_PROGRAM_URL	https://ctags.io/	/official site/
 !_TAG_PROGRAM_VERSION	5.9.0	//
 Adding citations without actually using them in body text	230208_1113.md	/^# Adding citations without actually using them in body text $/;"	c
-Bootable disk from iso	230209_0032.md	/^# Bootable disk from iso $/;"	c
+Afternotice	230629_2201.md	/^## Afternotice$/;"	s	chapter:Modding in Empire Totalwar
+Backlinks	230218_0400.md	/^##### Backlinks$/;"	T	chapter:Openning vim with a specific vimrc file
+Backlinks & References	230217_1207.md	/^##### Backlinks & References$/;"	T	chapter:Saving an email which is attachable to other mails in neomutt
+Backlinks & References	230225_1227.md	/^##### Backlinks & References$/;"	T	chapter:Screen brightness from commandline with xrandr
+Backlinks & References	230228_1010.md	/^##### Backlinks & References$/;"	T	chapter:Vimscript
+Backlinks & References	230228_1013.md	/^##### Backlinks & References$/;"	T	section:Echoing messages in vim""Persistent Echoing
+Backlinks & References	230309_2217.md	/^##### Backlinks & References$/;"	T	section:Setting options in vim""Exercises
+Backlinks & References	230309_2337.md	/^##### Backlinks & References$/;"	T	section:Basic mapping""Exercises
+Backlinks & References	230710_1605.md	/^##### Backlinks & References$/;"	T	chapter:how to see and save an email (eml) file
+Basic mapping	230309_2337.md	/^# Basic mapping $/;"	c
+Binance testnet	230214_0011.md	/^# Binance testnet $/;"	c
+Boolean options	230309_2217.md	/^## Boolean options$/;"	s	chapter:Setting options in vim
+Bspwm	230219_2239.md	/^# Bspwm $/;"	c
+Bspwm rule for zathura	230219_2118.md	/^# Bspwm rule for zathura $/;"	c
+But How?	230629_2201.md	/^## But How?$/;"	s	chapter:Modding in Empire Totalwar
+CCXT Api	230411_1400.md	/^# CCXT Api $/;"	c
+Cfilter	230218_0548.md	/^# Cfilter $/;"	c
+Changing default application in linux system	230214_2230.md	/^# Changing default application in linux system $/;"	c
+Checking options status	230309_2217.md	/^### Checking options status$/;"	S	section:Setting options in vim""Boolean options
+Chords	230403_2113.md	/^### Chords $/;"	S	section:Steno""Key concepts
 Citation Styles in Pandoc	230208_0148.md	/^# Citation Styles in Pandoc $/;"	c
-Configuring Attachment Assignee Program in Neomutt	230207_1123.md	/^# Configuring Attachment Assignee Program in Neomutt $/;"	c
-Default vifm leader	230208_1128.md	/^# Default vifm leader $/;"	c
+Commenting	230309_2337.md	/^## Commenting$/;"	s	chapter:Basic mapping
+Configuring Attachment Opener Program in Neomutt	230207_1123.md	/^# Configuring Attachment Opener Program in Neomutt $/;"	c
+Custom reference.docx	230217_0025.md	/^# Custom reference.docx  $/;"	c
+Echoing messages in vim	230228_1013.md	/^# Echoing messages in vim $/;"	c
+Editing body text befor sending an email	230217_1222.md	/^# Editing body text befor sending an email $/;"	c
+Exercises	230309_2217.md	/^## Exercises$/;"	s	chapter:Setting options in vim
+Exercises	230309_2337.md	/^## Exercises$/;"	s	chapter:Basic mapping
+Exercises	230310_0141.md	/^## Exercises$/;"	s	chapter:Insert Mode
+File saveas and continue to editing the new file	230220_1204.md	/^# File saveas and continue to editing the new file $/;"	c
 Fleeting Notes	index.md	/^# Fleeting Notes$/;"	c
-FootNote Referencing	230205_2020.md	/^## FootNote Referencing$/;"	s	chapter:Pandoc Citation
+FootNote Referencing	230205_2020.md	/^## FootNote Referencing $/;"	s	chapter:Pandoc Citation
+Forenotice:	230629_2201.md	/^## Forenotice: $/;"	s	chapter:Modding in Empire Totalwar
+Formatting existing line with setted textwidth	230215_0111.md	/^## Formatting existing line with setted textwidth$/;"	s	chapter:Textwidth setting in vim
+Getting the current working directory	230411_1647.md	/^# Getting the current working directory $/;"	c
+Getting the home directory	230411_1625.md	/^## Getting the home directory$/;"	s	chapter:Pathlib library
+Going to sleep	230524_1853.md	/^## Going to sleep$/;"	s
+Grepping in open buffers	230312_2324.md	/^# Grepping in open buffers  $/;"	c
+How price forms	230913_0957.md	/^# How price forms$/;"	c
 How to Open tar.xz (binary) File	230205_0327.md	/^# How to Open tar.xz (binary) File $/;"	c
 How to color the links in document conversion with pandoc	230209_0052.md	/^# How to color the links in document conversion with pandoc $/;"	c
 How to convert a bootable usb drive to normal	230209_0035.md	/^# How to convert a bootable usb drive to normal $/;"	c
 How to determine a block device name?	230209_0046.md	/^# How to determine a block device name? $/;"	c
 How to open an url or file in vim	230207_1705.md	/^# How to open an url or file in vim $/;"	c
+How to open and save it with vim	230629_2201.md	/^#### How to open and save it with vim$/;"	t	subsection:Modding in Empire Totalwar""But How?""Red Notice: file encodings
+How to prepare a bootable usb or block device from iso	230209_0032.md	/^# How to prepare a bootable usb or block device from iso $/;"	c
+How to prevent vim open the first match in the quickfix list - result of a search	230218_0538.md	/^# How to prevent vim open the first match in the quickfix list - result of a search$/;"	c
+How to see current mappings in vim	230218_0415.md	/^# How to see current mappings in vim $/;"	c
+How to suppress grep about directory errors	230218_0516.md	/^# How to suppress grep about directory errors $/;"	c
+Insert Mode	230310_0141.md	/^# Insert Mode$/;"	c
+Installing and using mermaid	230305_2059.md	/^# Installing and using mermaid $/;"	c
+Jumping back and forth in vim [@vimjump]	230218_0217.md	/^# Jumping back and forth in vim [@vimjump]$/;"	c
+Key concepts	230403_2113.md	/^## Key concepts $/;"	s	chapter:Steno
+Linux system related	230214_0040.md	/^# Linux system related $/;"	c
+Login to binance with binance-connector library	230213_2323.md	/^# Login to binance with binance-connector library $/;"	c
+Loshbook2013Apr	zettelsref.bib	/^@book{Loshbook2013Apr,$/;"	b
+Making directories	230411_1650.md	/^# Making directories $/;"	c
+Modal mapping	230310_0141.md	/^# Modal mapping $/;"	c
+Modding in Empire Totalwar	230629_2201.md	/^# Modding in Empire Totalwar $/;"	c
+Neomutt	230210_1210.md	/^# Neomutt $/;"	c
 Open File From Bib Input	230206_0313.md	/^# Open File From Bib Input $/;"	c
+Opening a single .eml mail file with neomutt	230217_1253.md	/^# Opening a single .eml mail file with neomutt $/;"	c
+Opening terminal in a folder in vifm	230223_1616.md	/^# Opening terminal in a folder in vifm $/;"	c
+Openning vim with a specific vimrc file	230218_0400.md	/^# Openning vim with a specific vimrc file $/;"	c
+Options with values	230309_2217.md	/^## Options with values$/;"	s	chapter:Setting options in vim
+Pandoc	230209_0920.md	/^# Pandoc $/;"	c
 Pandoc Citation	230205_2020.md	/^# Pandoc Citation $/;"	c
+Pathlib library	230411_1625.md	/^# Pathlib library $/;"	c
+Persistent Echoing	230228_1013.md	/^## Persistent Echoing$/;"	s	chapter:Echoing messages in vim
+Python	230214_0022.md	/^# Python $/;"	c
 Pyvis	zettelsref.bib	/^@article{Pyvis,$/;"	a
-Referencing Equations	230205_2020.md	/^## Referencing Equations$/;"	s	chapter:Pandoc Citation
+Quicker way for spellcheck in vim and escaping backtick in markdown	230227_1425.md	/^# Quicker way for spellcheck in vim and escaping backtick in markdown$/;"	c
+Recalling previous or newer quicfix list in vim	230218_0543.md	/^# Recalling previous or newer quicfix list in vim $/;"	c
+Red Notice: file encodings	230629_2201.md	/^### Red Notice: file encodings$/;"	S	section:Modding in Empire Totalwar""But How?
+Referencing Equations {#sec:refeq}	230205_2020.md	/^## Referencing Equations {#sec:refeq}$/;"	s	chapter:Pandoc Citation
 Referencing Figures	230205_2020.md	/^## Referencing Figures$/;"	s	chapter:Pandoc Citation
+Referencing a section	230205_2020.md	/^## Referencing a section$/;"	s	chapter:Pandoc Citation
+Saving an email which is attachable to other mails in neomutt	230217_1207.md	/^# Saving an email which is attachable to other mails in neomutt $/;"	c
+Screen brightness from commandline with xrandr	230225_1227.md	/^# Screen brightness from commandline with xrandr $/;"	c
+Search in neomutt with notmuch	230214_0306.md	/^# Search in neomutt with notmuch $/;"	c
+Searching zettels with netrw	230308_1458.md	/^# Searching zettels with netrw $/;"	c
+Setting multiple options at once	230309_2217.md	/^## Setting multiple options at once$/;"	s	chapter:Setting options in vim
+Setting options in vim	230309_2217.md	/^# Setting options in vim$/;"	c
+Shiftround option	230309_2300.md	/^# Shiftround option $/;"	c
+Special characters	230309_2337.md	/^## Special characters$/;"	s	chapter:Basic mapping
+Steno	230403_2113.md	/^# Steno $/;"	c
 Table Referencing	230205_2020.md	/^## Table Referencing$/;"	s	chapter:Pandoc Citation
+Textwidth setting in vim	230215_0111.md	/^# Textwidth setting in vim $/;"	c
 This is the main index page of my zettel notes	index.md	/^# This is the main index page of my zettel notes$/;"	c
+Toggling boolean options	230309_2217.md	/^### Toggling boolean options$/;"	S	section:Setting options in vim""Boolean options
+Unrar a document in linux commandline	230209_1517.md	/^# Unrar a document in linux commandline $/;"	c
+View mail attachments from mutt	230214_0117.md	/^# View mail attachments from mutt $/;"	c
+Vifm	230209_0200.md	/^# Vifm $/;"	c
 Vifm Tabs and Tab Movement	230208_1108.md	/^# Vifm Tabs and Tab Movement $/;"	c
-Vifm default leader	230208_1205.md	/^tags: :vifm:$/;"	c
+Vim	230210_1250.md	/^# Vim $/;"	c
 Vim Tab Movement	230208_1103.md	/^# Vim Tab Movement $/;"	c
+Vimscript	230228_1010.md	/^# Vimscript $/;"	c
+Why ctrl-i in vim does not work?	230218_0410.md	/^# Why ctrl-i in vim does not work? $/;"	c
+Why my bspwm rules not working?	230219_2157.md	/^# Why my bspwm rules not working? $/;"	c
+Working with file names and suffixes	230411_1648.md	/^# Working with file names and suffixes $/;"	c
+Writing a booklet in caga documentbase system	230310_0328.md	/^# Writing a booklet in caga documentbase system $/;"	c
+Writing a configuration parser script with python	230411_1416.md	/^# Writing a configuration parser script with python $/;"	c
 Xev	230208_0033.md	/^# Xev $/;"	c
 Xev	zettelsref.bib	/^@article{Xev,$/;"	a
 Yakimov2017Nov	zettelsref.bib	/^@article{Yakimov2017Nov,$/;"	a
 ZoterCsl	zettelsref.bib	/^@article{ZoterCsl,$/;"	a
-den	230208_1143.md	/^# den $/;"	c
-deneme	230208_1138.md	/^# deneme $/;"	c
+binance-connector	230213_2318.md	/^# binance-connector $/;"	c
+creating symbolic links in vifm	230508_1722.md	/^# creating symbolic links in vifm $/;"	c
+defining local directory as a package and use the scripts in it in python	230707_1155.md	/^# defining local directory as a package and use the scripts in it in python $/;"	c
+how to see and save an email (eml) file	230710_1605.md	/^# how to see and save an email (eml) file   $/;"	c
 manual program installation from source code in linux	230204_1714.md	/^# manual program installation from source code in linux $/;"	c
+mutt-wizard file structure	230210_1016.md	/^# mutt-wizard file structure $/;"	c
+pracvim	zettelsref.bib	/^@book{pracvim,$/;"	b
 pyvis	230207_2237.md	/^# pyvis $/;"	c
+qmk keyboard layout	230329_0956.md	/^# qmk keyboard layout $/;"	c
+symlink	230224_1058.md	/^# symlink $/;"	c
+vifm copy directory and/or path of a file	230218_0125.md	/^# vifm copy directory and\/or path of a file $/;"	c
 vifm selection keymap	230204_1625.md	/^# vifm selection keymap $/;"	c
+vifm view and directory mode shortcut	230210_1709.md	/^# vifm view and directory mode shortcut $/;"	c
+vim color schemes	230227_1415.md	/^# vim color schemes $/;"	c
+vim spellcheck	230227_1419.md	/^# vim spellcheck $/;"	c
+zetteltype: note	230205_0327.md	/^zetteltype: note$/;"	s

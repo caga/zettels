@@ -8,18 +8,27 @@
 - [Linux system related](230214_0040.md)
 - [Bspwm](230219_2239.md)
 
-
 # Fleeting Notes
 
+- [defining local directory as a package and use the scripts in it in python](230707_1155.md)
+- [Modding in Totalwar Empire](230629_2201.md)
+- [pathlib library](230411_1625.md)
+- [Getting the current working directory](230411_1647.md)
+- [creating symbolic links in vifm](230508_1722.md)
+- [Writing a configuration parser script with python](230411_1416.md)
+- [Working with file names and suffixes](230411_1648.md)
+- [Making directories](230411_1650.md)
+- [CCXT Api](230411_1400.md)
+- [basic slideshow with pandoc](230524_1853.md)
+- [steno](230403_2113.md)
+- [qmk keyboard layout](230329_0956.md)
+- [Vimscript Study Notes ](230313_1606.md)
+- [Writing a booklet in caga documentbase system](230310_0328.md)
+- [Searching zettels with netrw](230308_1458.md)
+- [Installing and using mermaid](230305_2059.md)
+- [Adding latex plots,figures in markdown documents](230306_1552.md)
 - [vimscript](230228_1010.md)
-- [Echoing messages in vim](230228_1013.md)
-- [Quicker way for spellcheck in vim and escaping backtick in markdown](230227_1425.md)
 - [vim color schemes](230227_1415.md)
-
 - [Screen brightness from commandline with xrandr](230225_1227.md)
 - [symlink](230224_1058.md)
-- [File saveas and continue to editing the new file](230220_1204.md)
-- [Opening terminal in a folder in vifm](230223_1616.md)
 - [How to suppress grep about directory errors](230218_0516.md)
-- [Core vim movements](230218_0306.md)
-
